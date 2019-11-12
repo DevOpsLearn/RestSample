@@ -1,5 +1,5 @@
 # RestSample
-To test rest service for capital city based on country code
+To test rest service for capital city based on country code.
 The test script is present in /src/test/java/org/apache/maven/rest/RestTest.java
 The script will perform dynamic validation of rest services based on the user input - Code (Numeric) or Country Name (String)
 If the User inputs code, then https://restcountries.eu/rest/v2/callingcode/{callingcode} will be invoked
